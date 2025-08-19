@@ -1,16 +1,14 @@
-## Hi there 👋
+👋 Hi, I’m @Huda-Imran-0003
+🎓 I’m currently a Computer Science student
+💻 I’m interested in coding and exploring different areas of technology
+🔐 I’m especially curious about cybersecurity and ethical hacking
+🌱 Always learning and building my skills step by step  
+🚀 Documenting my journey here on GitHub
 
-<!--
-**Huda-Imran-0003/Huda-Imran-0003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 📌 What you’ll find here
+- 📝 Course notes 
+- 💻 Small projects and scripts I build while learning  
+- 📚 Summaries of theoretical CS concepts, explained simply  
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📬 Connect with me
+- ✉️ noorulhuda1060994@gmail.com
