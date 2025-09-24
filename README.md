@@ -6,7 +6,6 @@
 - 🚀 Documenting my journey here on GitHub
 
 ## 📌 What you’ll find here
-- 📝 Course notes 
 - 💻 Small projects and scripts I build while learning  
 - 📚 Summaries of theoretical ethical hacking and CS concepts
 
